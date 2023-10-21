@@ -1,18 +1,12 @@
-# create-svelte
+# Storyland
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Custom editor to help with writing stories using.
 
-## Creating a project
+## References
 
-If you're seeing this, you've probably already done this step. Congrats!
+[SvelteKit](https://kit.svelte.dev/) - web development, streamlined
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+[EditorJS](https://editorjs.io/) - Free block-style editor with a universal JSON output
 
 ## Developing
 
